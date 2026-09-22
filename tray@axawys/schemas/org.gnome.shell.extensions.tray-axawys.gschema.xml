@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.tray-axawys" path="/org/gnome/shell/extensions/tray-axawys/">
+    <key name="show-minimized-windows" type="b">
+      <default>false</default>
+      <summary>Show minimized windows in the tray</summary>
+    </key>
+    <key name="show-legacy-icons" type="b">
+      <default>true</default>
+      <summary>Show legacy XEmbed tray icons (X11/XWayland apps)</summary>
+    </key>
+    <key name="hide-passive-items" type="b">
+      <default>false</default>
+      <summary>Hide items whose status is Passive</summary>
+    </key>
+  </schema>
+</schemalist>

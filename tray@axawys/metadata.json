@@ -1,0 +1,9 @@
+{
+    "uuid": "tray@axawys",
+    "name": "Tray",
+    "description": "System tray for GNOME: StatusNotifierItem / AppIndicator icons, legacy XEmbed icons and minimized windows, like in KDE and Windows.",
+    "shell-version": ["48", "49", "50", "51"],
+    "settings-schema": "org.gnome.shell.extensions.tray-axawys",
+    "url": "https://github.com/Axawys/gnome_tray",
+    "version": 1
+}
