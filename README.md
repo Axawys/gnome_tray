@@ -102,4 +102,4 @@ journalctl -f -o cat /usr/bin/gnome-shell | grep -i tray
 
 ## License
 
-[GPL-2.0-or-later](LICENSE)
+[GPL-3.0-or-later](LICENSE)
